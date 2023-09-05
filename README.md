@@ -20,6 +20,10 @@ ICT기술을 활용하여 도시 물 문제 해결 관련 종합설계활동을 
   <p>낮에는 증발량을 최소화하기 위해 그물망 펼치기
   밤에는 심미성을 위해 그물망 걷어서 보관</p>
   <li><a href = "https://github.com/Seoyun0626/Smart_Watercity_Capstone/blob/main/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%EC%9E%91%EB%8F%99%20%EC%98%81%EC%83%81.mp4">작품 작동 영상</li>
+  <p>낮인 경우 - ![낮](https://github.com/Seoyun0626/Smart_Watercity_Capstone/assets/104416283/39f18184-d17a-464e-828e-f4f7e4ac2830)<br>
+     밤인 경우 - ![밤](https://github.com/Seoyun0626/Smart_Watercity_Capstone/assets/104416283/e5901aa0-a79a-42c2-9bc0-ee54e9bbbe00)<br>
+     비가 오는 경우 - ![비](https://github.com/Seoyun0626/Smart_Watercity_Capstone/assets/104416283/db7c24f1-6179-4574-9342-6fb17300b4c5)<br>
+  </p/>
 </ul>
 
 ## 5. 활용방안 및 기대효과
