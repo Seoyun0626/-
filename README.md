@@ -21,7 +21,6 @@ ICT기술을 활용하여 도시 물 문제 해결 관련 종합설계활동을 
   밤에는 심미성을 위해 그물망 걷어서 보관</p>
 </ul>
 
-작품 작동 영상
 <li><a href = "https://github.com/Seoyun0626/Smart_Watercity_Capstone/blob/main/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%EC%9E%91%EB%8F%99%20%EC%98%81%EC%83%81.mp4">작품 작동 영상</li>
 
 
